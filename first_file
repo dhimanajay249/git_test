@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset = "utf-8">
+   <title> SYNTAX HTML </title>
+ </head>
+  <body>
+    <h1> It is the basic structure for html.</h1>
+    <p> All the things you see here like <mark> !DOCTYPE html </mark> in very first line represnt that it is <strong> html5 version </strong>. </p>
+  </body>
+   
+</html>
